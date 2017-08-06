@@ -1,11 +1,11 @@
 # Goblin
-Goblin is a simple programming language, intended as a teaching/learning tool for people with no coding experience.
+Goblin is a toy programming language I am writing as a recreational project.
 
 
 
 __Goal__
 
-The goal of this project is to create a programming language with a simple syntax for learning to code compiled programs from scratch.
+The goal of this project is to create a programming language with a simple syntax, aimed at people learning to code from scratch.
 
 __Stages__
 
